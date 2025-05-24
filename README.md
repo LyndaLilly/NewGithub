@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
-    <h1>Hello again</h1>
-    
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti eius dolores, debitis id excepturi enim est doloremque sequi quia laudantium omnis facere aliquam, incidunt similique, pariatur aperiam rerum totam non.</p>
-
-
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, mollitia! Minus quae sit eaque necessitatibus, praesentium asperiores minima aperiam blanditiis error, fugiat, nemo eligendi totam quis consequuntur nesciunt quasi. Magnam.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, mollitia! Minus quae sit eaque necessitatibus, praesentium asperiores minima aperiam blanditiis error, fugiat, nemo eligendi totam quis consequuntur nesciunt quasi. Magnam.
     Corporis dicta vitae temporibus quod enim, cum eum culpa fugiat veritatis tempora similique velit praesentium! Fugiat saepe sapiente, dolorum, accusamus eos dolorem, ducimus officiis minus quidem dicta voluptatum placeat ullam.
     Quidem cumque rem deserunt voluptatibus distinctio, necessitatibus ratione inventore nam at consectetur? Dolore facere excepturi at possimus. Maxime laboriosam eligendi deserunt eaque exercitationem corporis expedita, eveniet consequuntur quos possimus! Quaerat!
     Quidem asperiores aliquid corrupti consequuntur voluptatibus quis eveniet, odit suscipit nobis porro! Vitae voluptas soluta, tenetur numquam qui minima optio! Odio vel ipsum dignissimos architecto corporis nemo fuga facere dicta!
@@ -21,6 +7,4 @@
     Ab modi explicabo non hic quam dolor eveniet inventore dolore maxime cupiditate soluta quo nobis consequuntur recusandae, culpa numquam distinctio ex nemo fugit ullam tempore laborum. Non nihil magnam debitis!
     Tempora dolore nam illo est quas? Ipsum minus, quaerat corrupti provident quos eos unde odio, excepturi recusandae praesentium animi aliquid maxime quod facere laboriosam nam cumque eligendi! Aliquid, pariatur ducimus.
     Sunt, ipsa voluptatem. Pariatur aut at incidunt quia, reiciendis, explicabo cum omnis sit, necessitatibus quidem illum accusantium ad officiis aliquam magni minima adipisci animi officia voluptas? Assumenda quis vitae nostrum.
-    Autem sed eos ratione saepe voluptatem quis ipsa, repellat eius officiis? At odit repellendus, obcaecati quas distinctio architecto et. Velit alias natus voluptatibus nesciunt nisi dignissimos, vitae tempore ex neque.</p>
-</body>
-</html>
+    Autem sed eos ratione saepe voluptatem quis ipsa, repellat eius officiis? At odit repellendus, obcaecati quas distinctio architecto et. Velit alias natus voluptatibus nesciunt nisi dignissimos, vitae tempore ex neque
